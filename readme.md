@@ -1,4 +1,12 @@
+## Artwork
 
+[Logo](https://globalaibootcamp.blob.core.windows.net/artwork/logo.png)
+[Rollup Banner](https://globalaibootcamp.blob.core.windows.net/artwork/ainight_rollup-banner.psd)
+[Meetup Banner](https://globalaibootcamp.blob.core.windows.net/artwork/ainight_banner.psd)
+[Font](https://globalaibootcamp.blob.core.windows.net/artwork/font_quicksand.zip)
+
+
+## Workshops
 
 ### Global AI Night Beginner Track
 *Get started quickly with AI with low to no code*
