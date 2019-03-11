@@ -18,8 +18,8 @@ In this workshop you will be introduced to the Microsoft Cognitive Services, a r
 We will cover pre-trained AI APIs, such as computer vision and text analytics, that are accessed by REST. Then look at how you can host these models in containers, giving you the ability to run Cognitive Services offline and on edge devices. Finally we will dive into more Custom AI that uses transfer learning, allowing you to provide a small amount of your own data to train an image classification model. Wrapping the workshop up by building our custom trained AI into an application - using Logic Apps and Power Apps, tools that are ideal for proof of concepts within machine learning
 
 #### Materials
-- [Session owners/ Trainers](https://github.com/amynic/ainights-sessionowners)
-- [public workshop content for attendees](https://github.com/amynic/AINights)
+- [Session owners / Trainers](https://github.com/amynic/ainights-sessionowners)
+- [Public workshop content for attendees](https://github.com/amynic/AINights)
 
 
 
