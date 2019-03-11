@@ -42,3 +42,8 @@ Intelligent experiences powered by AI can seem like magic to users. Developing t
 
 Learn the end to end process of building deep learning solutions from experimentation to deployment. We will start by experimenting locally with different model architectures and hyperparameters using PyTorch. Then, we’ll show you how to use Azure Machine Learning service to train models at massive scale in the cloud and seamlessly deploy them into production.
 
+### Materials
+[Content](https://github.com/sethjuarez/pytorchintro)
+- Part 1: Getting familiar with Deep Learning and PyTorch
+- Part 2: Using Azure Machine Learning service to cloud accelerate deep learning
+
