@@ -17,7 +17,7 @@
 In this workshop you will be introduced to the Microsoft Cognitive Services, a range of offerings you can use to infuse intelligence and machine learning into your applications without needing to build the code from scratch. 
 We will cover pre-trained AI APIs, such as computer vision and text analytics, that are accessed by REST. Then look at how you can host these models in containers, giving you the ability to run Cognitive Services offline and on edge devices. Finally we will dive into more Custom AI that uses transfer learning, allowing you to provide a small amount of your own data to train an image classification model. Wrapping the workshop up by building our custom trained AI into an application - using Logic Apps and Power Apps, tools that are ideal for proof of concepts within machine learning
 
-#### Materials
+### Materials
 - [Session owners / Trainers](https://github.com/amynic/ainights-sessionowners)
 - [Public workshop content for attendees](https://github.com/amynic/AINights)
 
@@ -30,7 +30,7 @@ We will cover pre-trained AI APIs, such as computer vision and text analytics, t
 
 Intelligent experiences powered by AI can seem like magic to users. Developing them, however, is cumbersome involving a series of sequential and interconnected decisions along the way that are very time consuming. Algorithm selection, hyper-parameter tuning, feature engineering... so many choices. What if there was an automated service that identifies the best machine learning pipelines for a given problem and dataset? The automated ML capability in Azure Machine Learning service does exactly that. By the end of the workshop you will create a model using automated ML and deploy it. 
 
-#### Materials
+### Materials
 - [Powerpoint](automatedml.pptx)
 - Workshop Content
   - Option 1) [Energy Demand](aka.ms/GlobalAINotebook)
